@@ -39,7 +39,7 @@ for i in items:
 
     os.makedirs(posts_folder, exist_ok=True)
 
-    subsite_markdown = "# {}".format(color)
+    subsite_markdown = "# {}\n".format(color)
     # Image:
     search_query = "color " + color
     results = DDGS().images(
