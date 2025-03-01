@@ -25,3 +25,29 @@ package-lock.json
 # Misc
 _sass/vendors
 assets/js/dist
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs and database files
+*.log
+*.sqlite3
+
+# IDE and editor files
+.vscode/
+*.sublime-workspace
+.idea/
