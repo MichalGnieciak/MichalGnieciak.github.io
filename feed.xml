@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://michalgnieciak.github.io/</id>
+  <id>http://localhost:4000/</id>
   <title>WWW Task 1</title>
   <subtitle>A website project</subtitle>
-  <updated>2025-03-01T20:05:13+01:00</updated>
+  <updated>2025-03-01T20:39:21+01:00</updated>
   <author>
     <name>Michał Gnieciak</name>
-    <uri>https://michalgnieciak.github.io/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://michalgnieciak.github.io/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="https://michalgnieciak.github.io/"/>
+    href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <rights> © 2025 Michał Gnieciak </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>Your Favourite Color</title>
-    <link href="https://michalgnieciak.github.io/posts/Your-favourite-color/" rel="alternate" type="text/html" title="Your Favourite Color" />
+    <link href="http://localhost:4000/posts/Your-favourite-color/" rel="alternate" type="text/html" title="Your Favourite Color" />
     <published>2025-03-01T13:00:00+01:00</published>
   
     <updated>2025-03-01T19:26:33+01:00</updated>
   
-    <id>https://michalgnieciak.github.io/posts/Your-favourite-color/</id>
-    <content type="text/html" src="https://michalgnieciak.github.io/posts/Your-favourite-color/" />
+    <id>http://localhost:4000/posts/Your-favourite-color/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Your-favourite-color/" />
     <author>
       <name>Michał Gnieciak</name>
     </author>
@@ -45,13 +45,13 @@
   
   <entry>
     <title>Learn About Red</title>
-    <link href="https://michalgnieciak.github.io/posts/Learn-about-Red/" rel="alternate" type="text/html" title="Learn About Red" />
+    <link href="http://localhost:4000/posts/Learn-about-red/" rel="alternate" type="text/html" title="Learn About Red" />
     <published>2025-03-01T13:00:00+01:00</published>
   
-    <updated>2025-03-01T19:42:23+01:00</updated>
+    <updated>2025-03-01T13:00:00+01:00</updated>
   
-    <id>https://michalgnieciak.github.io/posts/Learn-about-Red/</id>
-    <content type="text/html" src="https://michalgnieciak.github.io/posts/Learn-about-Red/" />
+    <id>http://localhost:4000/posts/Learn-about-red/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Learn-about-red/" />
     <author>
       <name>Michał Gnieciak</name>
     </author>
@@ -69,13 +69,13 @@
   
   <entry>
     <title>Learn About Purple</title>
-    <link href="https://michalgnieciak.github.io/posts/Learn-about-Purple/" rel="alternate" type="text/html" title="Learn About Purple" />
+    <link href="http://localhost:4000/posts/Learn-about-purple/" rel="alternate" type="text/html" title="Learn About Purple" />
     <published>2025-03-01T13:00:00+01:00</published>
   
-    <updated>2025-03-01T19:42:23+01:00</updated>
+    <updated>2025-03-01T13:00:00+01:00</updated>
   
-    <id>https://michalgnieciak.github.io/posts/Learn-about-Purple/</id>
-    <content type="text/html" src="https://michalgnieciak.github.io/posts/Learn-about-Purple/" />
+    <id>http://localhost:4000/posts/Learn-about-purple/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Learn-about-purple/" />
     <author>
       <name>Michał Gnieciak</name>
     </author>
@@ -86,20 +86,20 @@
     
   
 
-  <summary>Purple   The color purple became associated with wealth and royalty because, oftentimes, the rich were the only individuals who could afford clothing and other household items that were dyed purple. Around 1200 B.C.E., the city of Tyre (along the coast of ancient Phoenicia) began producing purple dye by crushing the shells of a small sea snail. Read more: https://www.verywellmind.com/the-color-...</summary>
+  <summary>Purple   The Color Purple, novel by Alice Walker, published in 1982. It won a Pulitzer Prize in 1983, making Walker the first African American woman to win a Pulitzer for fiction. A feminist work about an abused and uneducated African American woman’s struggle for empowerment, The Color Purple was praised for the depth of its female characters and for its eloquent use of Black English Vernacula...</summary>
 
   </entry>
 
   
   <entry>
     <title>Learn About Green</title>
-    <link href="https://michalgnieciak.github.io/posts/Learn-about-Green/" rel="alternate" type="text/html" title="Learn About Green" />
+    <link href="http://localhost:4000/posts/Learn-about-green/" rel="alternate" type="text/html" title="Learn About Green" />
     <published>2025-03-01T13:00:00+01:00</published>
   
-    <updated>2025-03-01T19:42:23+01:00</updated>
+    <updated>2025-03-01T13:00:00+01:00</updated>
   
-    <id>https://michalgnieciak.github.io/posts/Learn-about-Green/</id>
-    <content type="text/html" src="https://michalgnieciak.github.io/posts/Learn-about-Green/" />
+    <id>http://localhost:4000/posts/Learn-about-green/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Learn-about-green/" />
     <author>
       <name>Michał Gnieciak</name>
     </author>
@@ -117,13 +117,13 @@
   
   <entry>
     <title>Learn About Blue</title>
-    <link href="https://michalgnieciak.github.io/posts/Learn-about-Blue/" rel="alternate" type="text/html" title="Learn About Blue" />
+    <link href="http://localhost:4000/posts/Learn-about-blue/" rel="alternate" type="text/html" title="Learn About Blue" />
     <published>2025-03-01T13:00:00+01:00</published>
   
-    <updated>2025-03-01T19:42:23+01:00</updated>
+    <updated>2025-03-01T13:00:00+01:00</updated>
   
-    <id>https://michalgnieciak.github.io/posts/Learn-about-Blue/</id>
-    <content type="text/html" src="https://michalgnieciak.github.io/posts/Learn-about-Blue/" />
+    <id>http://localhost:4000/posts/Learn-about-blue/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Learn-about-blue/" />
     <author>
       <name>Michał Gnieciak</name>
     </author>
@@ -134,7 +134,7 @@
     
   
 
-  <summary>Blue   Blue is one of the three primary colours in the RYB colour model (traditional colour theory), as well as in the RGB (additive) colour model. [2] It lies between violet and cyan on the spectrum of visible light.The term blue generally describes colours perceived by humans observing light with a dominant wavelength that’s between approximately 450 and 495 nanometres. Read more: https://en....</summary>
+  <summary>Blue   Blue, in physics, light in the wavelength range of 450-495 nanometers in the visible spectrum. In art, blue is a color on the conventional wheel, located between green and violet and opposite orange, its complement. Pigments for blue have come from a variety of sources, including azurite, ultramarine, and indigo. Read more: https://www.britannica.com/science/blue-color</summary>
 
   </entry>
 

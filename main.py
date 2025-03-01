@@ -30,7 +30,7 @@ for i in items:
     # Creating subsites for each color :
     current_date = datetime.now().strftime("%Y-%m-%d")
 
-    post_title = "Learn-about-{}".format(color)
+    post_title = "Learn-about-{}".format(color.lower())
 
     filename = f"{current_date}-{post_title}.md"
 
