@@ -68,23 +68,24 @@ for i in items:
     for result in results:
         subsite_markdown += """
 ### {}
-Read more: {}
+[Read more]({})
     """.format(result['body'], result['href'])
         
     with open(file_path, "w") as markdown_file:
         markdown_file.write(f"---\n")
         markdown_file.write(f"title: {post_title.replace('-', ' ').title()}\n")
         markdown_file.write(f"date: {current_date} 12:00:00\n")
-        markdown_file.write(f"categories: [Blogging]\n")
-        markdown_file.write(f"tags: [introduction]\n")
+        markdown_file.write(f"categories: [Color]\n")
+        markdown_file.write(f"tags: [learning]\n")
         markdown_file.write(f"---\n")
         markdown_file.write("\n")
         markdown_file.write(subsite_markdown)
-    
+
     post_markdown += """
 ### {}
-{}
-    """.format(color, desc)
+{}\n
+[Learn about {}]({}) 
+    """.format(color, desc, color.lower(), f"https://michalgnieciak.github.io/posts/{post_title}/")
 
 current_date = datetime.now().strftime("%Y-%m-%d")
 
@@ -102,7 +103,7 @@ with open(file_path, "w") as markdown_file:
     markdown_file.write(f"---\n")
     markdown_file.write(f"title: {post_title.replace('-', ' ').title()}\n")
     markdown_file.write(f"date: {current_date} 12:00:00\n")
-    markdown_file.write(f"categories: [Blogging]\n")
+    markdown_file.write(f"categories: [Explanation]\n")
     markdown_file.write(f"tags: [introduction]\n")
     markdown_file.write(f"---\n")
     markdown_file.write("\n")

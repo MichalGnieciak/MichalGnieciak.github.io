@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>WWW Task 1</title>
   <subtitle>A website project</subtitle>
-  <updated>2025-03-01T20:51:12+01:00</updated>
+  <updated>2025-03-02T21:23:27+01:00</updated>
   <author>
     <name>Michał Gnieciak</name>
     <uri>http://localhost:4000/</uri>
@@ -22,9 +22,9 @@
   <entry>
     <title>Your Favourite Color</title>
     <link href="http://localhost:4000/posts/Your-favourite-color/" rel="alternate" type="text/html" title="Your Favourite Color" />
-    <published>2025-03-01T13:00:00+01:00</published>
+    <published>2025-03-02T13:00:00+01:00</published>
   
-    <updated>2025-03-01T19:26:33+01:00</updated>
+    <updated>2025-03-02T13:00:00+01:00</updated>
   
     <id>http://localhost:4000/posts/Your-favourite-color/</id>
     <content type="text/html" src="http://localhost:4000/posts/Your-favourite-color/" />
@@ -34,11 +34,11 @@
 
   
     
-    <category term="Blogging" />
+    <category term="Explanation" />
     
   
 
-  <summary>What is your favourite color? And what if this question was asked to the whole world? Here are the results:   Blue Blue is the most popular color worldwide, with over 30% of people choosing it as their favorite color. It is associated with trust, loyalty, and stability.  Red Red is the second most popular color worldwide, with around 15% of people choosing it as their favorite color. It is asso...</summary>
+  <summary>What is your favourite color? And what if this question was asked to the whole world? Here are the results:   Blue Blue is the most popular color worldwide, with over 30% of people choosing it as their favorite color. It is associated with trust, loyalty, and stability.  Learn about blue  Red Red is the second most popular color worldwide, with around 15% of people choosing it as their favorite...</summary>
 
   </entry>
 
@@ -46,9 +46,9 @@
   <entry>
     <title>Learn About Red</title>
     <link href="http://localhost:4000/posts/Learn-about-red/" rel="alternate" type="text/html" title="Learn About Red" />
-    <published>2025-03-01T13:00:00+01:00</published>
+    <published>2025-03-02T13:00:00+01:00</published>
   
-    <updated>2025-03-01T13:00:00+01:00</updated>
+    <updated>2025-03-02T13:00:00+01:00</updated>
   
     <id>http://localhost:4000/posts/Learn-about-red/</id>
     <content type="text/html" src="http://localhost:4000/posts/Learn-about-red/" />
@@ -58,11 +58,11 @@
 
   
     
-    <category term="Blogging" />
+    <category term="Color" />
     
   
 
-  <summary>Red   Red is the color at the long wavelength end of the visible spectrum of light, next to orange and opposite violet.It has a dominant wavelength of approximately 625-750 nanometres. [1] It is a primary color in the RGB color model and a secondary color (made from magenta and yellow) in the CMYK color model, and is the complementary color of cyan.Reds range from the brilliant yellow-tinged … ...</summary>
+  <summary>Red   Red is the color at the long wavelength end of the visible spectrum of light, next to orange and opposite violet. It has a dominant wavelength of approximately 625-750 nanometres. [1] It is a primary color in the RGB color model and a secondary color (made from magenta and yellow) in the CMYK color model, and is the complementary color of cyan. Read more</summary>
 
   </entry>
 
@@ -70,9 +70,9 @@
   <entry>
     <title>Learn About Purple</title>
     <link href="http://localhost:4000/posts/Learn-about-purple/" rel="alternate" type="text/html" title="Learn About Purple" />
-    <published>2025-03-01T13:00:00+01:00</published>
+    <published>2025-03-02T13:00:00+01:00</published>
   
-    <updated>2025-03-01T13:00:00+01:00</updated>
+    <updated>2025-03-02T13:00:00+01:00</updated>
   
     <id>http://localhost:4000/posts/Learn-about-purple/</id>
     <content type="text/html" src="http://localhost:4000/posts/Learn-about-purple/" />
@@ -82,11 +82,11 @@
 
   
     
-    <category term="Blogging" />
+    <category term="Color" />
     
   
 
-  <summary>Purple   The Color Purple, novel by Alice Walker, published in 1982. It won a Pulitzer Prize in 1983, making Walker the first African American woman to win a Pulitzer for fiction. A feminist work about an abused and uneducated African American woman’s struggle for empowerment, The Color Purple was praised for the depth of its female characters and for its eloquent use of Black English Vernacula...</summary>
+  <summary>Purple   The color purple became associated with wealth and royalty because, oftentimes, the rich were the only individuals who could afford clothing and other household items that were dyed purple. Around 1200 B.C.E., the city of Tyre (along the coast of ancient Phoenicia) began producing purple dye by crushing the shells of a small sea snail. Read more</summary>
 
   </entry>
 
@@ -94,9 +94,9 @@
   <entry>
     <title>Learn About Green</title>
     <link href="http://localhost:4000/posts/Learn-about-green/" rel="alternate" type="text/html" title="Learn About Green" />
-    <published>2025-03-01T13:00:00+01:00</published>
+    <published>2025-03-02T13:00:00+01:00</published>
   
-    <updated>2025-03-01T13:00:00+01:00</updated>
+    <updated>2025-03-02T13:00:00+01:00</updated>
   
     <id>http://localhost:4000/posts/Learn-about-green/</id>
     <content type="text/html" src="http://localhost:4000/posts/Learn-about-green/" />
@@ -106,11 +106,11 @@
 
   
     
-    <category term="Blogging" />
+    <category term="Color" />
     
   
 
-  <summary>Green   Green Color Meaning . Green Things . top » color theory » color perception » words to describe color » words to describe green . 50 Words To Describe Green John Spacey, April 11, 2023. Words to describe green are mostly references to natural green colors or green colors that have some cultural meaning and symbolism. Green colors can be … Read more: https://simplicable.com/colors/words-t...</summary>
+  <summary>Green   Green Color Meaning . Green Things . top » color theory » color perception » words to describe color » words to describe green . 50 Words To Describe Green John Spacey, April 11, 2023. Words to describe green are mostly references to natural green colors or green colors that have some cultural meaning and symbolism. Green colors can be … Read more</summary>
 
   </entry>
 
@@ -118,9 +118,9 @@
   <entry>
     <title>Learn About Blue</title>
     <link href="http://localhost:4000/posts/Learn-about-blue/" rel="alternate" type="text/html" title="Learn About Blue" />
-    <published>2025-03-01T13:00:00+01:00</published>
+    <published>2025-03-02T13:00:00+01:00</published>
   
-    <updated>2025-03-01T13:00:00+01:00</updated>
+    <updated>2025-03-02T13:00:00+01:00</updated>
   
     <id>http://localhost:4000/posts/Learn-about-blue/</id>
     <content type="text/html" src="http://localhost:4000/posts/Learn-about-blue/" />
@@ -130,11 +130,11 @@
 
   
     
-    <category term="Blogging" />
+    <category term="Color" />
     
   
 
-  <summary>Blue   Blue, in physics, light in the wavelength range of 450-495 nanometers in the visible spectrum. In art, blue is a color on the conventional wheel, located between green and violet and opposite orange, its complement. Pigments for blue have come from a variety of sources, including azurite, ultramarine, and indigo. Read more: https://www.britannica.com/science/blue-color</summary>
+  <summary>Blue   Blue, in physics, light in the wavelength range of 450-495 nanometers in the visible spectrum. In art, blue is a color on the conventional wheel, located between green and violet and opposite orange, its complement. Pigments for blue have come from a variety of sources, including azurite, ultramarine, and indigo. Read more</summary>
 
   </entry>
 
