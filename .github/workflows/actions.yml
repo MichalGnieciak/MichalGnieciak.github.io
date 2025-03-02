@@ -1,6 +1,12 @@
 name: Run web scrapper
 
 on: [workflow_dispatch]
+# If scraping should be scheduled:
+# - [workflow_dispatch]
+#  schedule:
+#    -cron:  '0 0 1 * *'
+#  At 12:00 AM, on day 1 of the month
+#  https://crontab.cronhub.io/
 
 jobs:
   build:
