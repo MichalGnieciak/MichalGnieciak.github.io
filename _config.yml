@@ -16,7 +16,7 @@ lang: en
 
 title: WWW Task 1 # the main title
 
-tagline: Example site # it will display as the subtitle
+tagline: A website project # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A website project
@@ -90,7 +90,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: dark
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -100,7 +100,7 @@ theme_mode: # [light | dark]
 cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-# avatar: 
+avatar: "https://jessicagingrich.com/wp-content/uploads/2019/03/kisspng-color-wheel-color-scheme-color-theory-paint-colors-5abd04613e3717.8936079915223368652548-1.png" 
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

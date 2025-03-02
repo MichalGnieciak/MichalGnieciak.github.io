@@ -1,7 +1,7 @@
 ---
 title: Your Favourite Color
-date: 2025-03-01 12:00:00
-categories: [Blogging]
+date: 2025-03-02 12:00:00
+categories: [Explanation]
 tags: [introduction]
 ---
 
@@ -12,16 +12,26 @@ tags: [introduction]
 
 ### Blue
 Blue is the most popular color worldwide, with over 30% of people choosing it as their favorite color. It is associated with trust, loyalty, and stability.
+
+[Learn about blue](https://michalgnieciak.github.io/posts/Learn-about-blue/) 
     
 ### Red
 Red is the second most popular color worldwide, with around 15% of people choosing it as their favorite color. It is associated with passion, energy, and excitement.
+
+[Learn about red](https://michalgnieciak.github.io/posts/Learn-about-red/) 
     
 ### Green
 Green is the third most popular color worldwide, with around 14% of people choosing it as their favorite color. It is associated with nature, growth, and balance.
+
+[Learn about green](https://michalgnieciak.github.io/posts/Learn-about-green/) 
     
 ### Purple
 Purple is the fourth most popular color worldwide, with around 10% of people choosing it as their favorite color. It is associated with creativity, imagination, and spirituality.
+
+[Learn about purple](https://michalgnieciak.github.io/posts/Learn-about-purple/) 
     
 ### Black
 Black is the fifth most popular color worldwide, with around 9% of people choosing it as their favorite color. It is associated with sophistication, elegance, and mystery.
+
+[Learn about black](https://michalgnieciak.github.io/posts/Learn-about-black/) 
     
