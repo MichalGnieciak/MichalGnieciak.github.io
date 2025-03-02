@@ -6,8 +6,8 @@ tags: [learning]
 ---
 
 # Purple
-![](https://i.pinimg.com/originals/b7/f5/c1/b7f5c160bc8ae930449877f4dffe3e67.png)
+![](https://i.pinimg.com/originals/af/e1/c2/afe1c2659e64b989770809a0ec5f96af.png)
 
-### The color purple became associated with wealth and royalty because, oftentimes, the rich were the only individuals who could afford clothing and other household items that were dyed purple. Around 1200 B.C.E., the city of Tyre (along the coast of ancient Phoenicia) began producing purple dye by crushing the shells of a small sea snail.
+### What does the color purple mean? Purple is described as royal, spiritual, and creative. Learn more about the color purple meaning, moods, and associations it evokes.
 [Read more](https://www.verywellmind.com/the-color-psychology-of-purple-2795820)
     
