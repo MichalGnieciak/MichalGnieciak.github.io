@@ -8,6 +8,6 @@ tags: [learning]
 # Blue
 ![](https://cdn.shopify.com/s/files/1/1038/1798/files/Navy-Blue-Color-Palette-with-Hex-Codes.png?v=1688970887)
 
-### Blue, in physics, light in the wavelength range of 450-495 nanometers in the visible spectrum. In art, blue is a color on the conventional wheel, located between green and violet and opposite orange, its complement. Pigments for blue have come from a variety of sources, including azurite, ultramarine, and indigo.
-[Read more](https://www.britannica.com/science/blue-color)
+### Blue is one of the three primary colours in the RYB colour model (traditional colour theory), as well as in the RGB (additive) colour model. [2] It lies between violet and cyan on the spectrum of visible light. The term blue generally describes colours perceived by humans observing light with a dominant wavelength that's between approximately 450 and 495 nanometres. Most blues contain a slight ...
+[Read more](https://en.wikipedia.org/wiki/Blue)
     
