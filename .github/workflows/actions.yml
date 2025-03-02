@@ -29,26 +29,3 @@ jobs:
         with:
           commit_message: Update posts
         id: auto-commit-action
-
-      # Jekyll build step
-      - name: Build Jekyll site
-        run: |
-          gem install bundler
-          bundle install
-          bundle exec jekyll build
-
-      # Switch to the `new-gh-pages` branch and move files
-      - name: Switch to new-gh-pages branch and commit changes
-        run: |
-          git checkout new-gh-pages
-          git rm -rf .
-          git add _site/
-          git mv _site/* .
-          git rm -r _site/
-
-      # Commit the changes to the new-gh-pages branch
-      - name: Commit Changes to new-gh-pages branch
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Update gh-pages with new site
-        id: auto-commit-action-gh-pages
