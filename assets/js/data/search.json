@@ -4,7 +4,7 @@
     "url": "/posts/Your-favourite-color/",
     "categories": "Explanation",
     "tags": "introduction",
-    "date": "2025-03-02 13:00:00 +0100",
+    "date": "2025-03-03 12:00:00 +0000",
     "content": "What is your favourite color? And what if this question was asked to the whole world? Here are the results:   Blue Blue is the most popular color worldwide, with over 30% of people choosing it as t..."
   },
   {
@@ -12,7 +12,7 @@
     "url": "/posts/Learn-about-red/",
     "categories": "Color",
     "tags": "learning",
-    "date": "2025-03-02 13:00:00 +0100",
+    "date": "2025-03-03 12:00:00 +0000",
     "content": "Red   Red is the color at the long wavelength end of the visible spectrum of light, next to orange and opposite violet. It has a dominant wavelength of approximately 625-750 nanometres. [1] It is a..."
   },
   {
@@ -20,15 +20,63 @@
     "url": "/posts/Learn-about-purple/",
     "categories": "Color",
     "tags": "learning",
-    "date": "2025-03-02 13:00:00 +0100",
-    "content": "Purple   The color purple became associated with wealth and royalty because, oftentimes, the rich were the only individuals who could afford clothing and other household items that were dyed purple..."
+    "date": "2025-03-03 12:00:00 +0000",
+    "content": "Purple   The Color Purple is a 1982 epistolary novel by American author Alice Walker that won the 1983 Pulitzer Prize for Fiction and the National Book Award for Fiction. [1] [a]The novel has been ..."
   },
   {
     "title": "Learn About Green",
     "url": "/posts/Learn-about-green/",
     "categories": "Color",
     "tags": "learning",
-    "date": "2025-03-02 13:00:00 +0100",
+    "date": "2025-03-03 12:00:00 +0000",
+    "content": "Green   Words to describe green are mostly references to natural green colors or green colors that have some cultural meaning and symbolism. Green colors can be described with general adjectives su..."
+  },
+  {
+    "title": "Learn About Blue",
+    "url": "/posts/Learn-about-blue/",
+    "categories": "Color",
+    "tags": "learning",
+    "date": "2025-03-03 12:00:00 +0000",
+    "content": "Blue   Blue is one of the three primary colours in the RYB colour model (traditional colour theory), as well as in the RGB (additive) colour model. [2] It lies between violet and cyan on the spectr..."
+  },
+  {
+    "title": "Learn About Black",
+    "url": "/posts/Learn-about-black/",
+    "categories": "Color",
+    "tags": "learning",
+    "date": "2025-03-03 12:00:00 +0000",
+    "content": "Black   As the color of night, black is strongly tied to the mythology of night in most cultures and can be described as eerie, gloomy or melancholic. Black also has other cultural associations for..."
+  },
+  {
+    "title": "Your Favourite Color",
+    "url": "/posts/Your-favourite-color/",
+    "categories": "Explanation",
+    "tags": "introduction",
+    "date": "2025-03-02 12:00:00 +0000",
+    "content": "What is your favourite color? And what if this question was asked to the whole world? Here are the results:   Blue Blue is the most popular color worldwide, with over 30% of people choosing it as t..."
+  },
+  {
+    "title": "Learn About Red",
+    "url": "/posts/Learn-about-red/",
+    "categories": "Color",
+    "tags": "learning",
+    "date": "2025-03-02 12:00:00 +0000",
+    "content": "Red   Red is the color at the long wavelength end of the visible spectrum of light, next to orange and opposite violet.It has a dominant wavelength of approximately 625-750 nanometres. [1] It is a ..."
+  },
+  {
+    "title": "Learn About Purple",
+    "url": "/posts/Learn-about-purple/",
+    "categories": "Color",
+    "tags": "learning",
+    "date": "2025-03-02 12:00:00 +0000",
+    "content": "Purple  The color purple became associated with wealth and royalty because, oftentimes, the rich were the only individuals who could afford clothing and other household items that were dyed purple...."
+  },
+  {
+    "title": "Learn About Green",
+    "url": "/posts/Learn-about-green/",
+    "categories": "Color",
+    "tags": "learning",
+    "date": "2025-03-02 12:00:00 +0000",
     "content": "Green   Green Color Meaning . Green Things . top » color theory » color perception » words to describe color » words to describe green . 50 Words To Describe Green John Spacey, April 11, 2023. Word..."
   },
   {
@@ -36,15 +84,15 @@
     "url": "/posts/Learn-about-blue/",
     "categories": "Color",
     "tags": "learning",
-    "date": "2025-03-02 13:00:00 +0100",
-    "content": "Blue   Blue, in physics, light in the wavelength range of 450-495 nanometers in the visible spectrum. In art, blue is a color on the conventional wheel, located between green and violet and opposit..."
+    "date": "2025-03-02 12:00:00 +0000",
+    "content": "Blue   Blue is one of the three primary colours in the RYB colour model (traditional colour theory), as well as in the RGB (additive) colour model. [2] It lies between violet and cyan on the spectr..."
   },
   {
     "title": "Learn About Black",
     "url": "/posts/Learn-about-black/",
     "categories": "Color",
     "tags": "learning",
-    "date": "2025-03-02 13:00:00 +0100",
+    "date": "2025-03-02 12:00:00 +0000",
     "content": "Black   As the color of night, black is strongly tied to the mythology of night in most cultures and can be described as eerie, gloomy or melancholic. Black also has other cultural associations for..."
   }
   
