@@ -1,12 +1,10 @@
-name: Run web scrapper
+name: Run Web Scraper and Deploy Jekyll Site
 
-on: [workflow_dispatch]
-# If scraping should be scheduled:
-# - [workflow_dispatch]
-#  schedule:
-#    -cron:  '0 0 1 * *'
-#  At 12:00 AM, on day 1 of the month
-#  https://crontab.cronhub.io/
+on:
+  workflow_dispatch:
+  # Uncomment below to schedule the workflow (1st of each month at 12 AM)
+  # schedule:
+  #   - cron: '0 0 1 * *'
 
 jobs:
   build:
@@ -14,7 +12,7 @@ jobs:
     steps:
 
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -23,15 +21,47 @@ jobs:
 
       - name: Upgrade pip
         run: python -m pip install --upgrade pip
-        
-      - name: Install dependencies
+
+      - name: Install Python dependencies
         run: pip install -r requirements.txt
 
-      - name: Execute Script
+      - name: Execute Python Script
         run: python main.py
 
       - name: Commit Python changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Update posts
+          commit_message: "Update scraped data"
         id: auto-commit-action
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.0'
+          bundler-cache: true
+
+      - name: Install Jekyll dependencies
+        run: bundle install
+
+      - name: Build Jekyll site
+        run: bundle exec jekyll build
+
+      - name: Switch to new-gh-pages branch
+        run: |
+          git checkout new-gh-pages
+
+      - name: Remove old files
+        run: |
+          git rm -rf .
+
+      - name: Move new build to root
+        run: |
+          git add _site/
+          git mv _site/* .
+          git rm -r _site/
+
+      - name: Commit and push Jekyll changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update Jekyll site"
+          branch: new-gh-pages
