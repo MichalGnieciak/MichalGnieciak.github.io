@@ -40,6 +40,7 @@ for i in items:
     # Creating subsites for each color :
     # Preparing info
     current_date = datetime.now().strftime("%Y-%m-%d")
+    current_time = datetime.now().strftime("%H:%M:%S")
     post_title = "Learn-about-{}".format(color.lower())
     filename = f"{current_date}-{post_title}.md"
     posts_folder = "_posts"
@@ -81,12 +82,23 @@ for i in items:
 [Read more]({})
     """.format(result['body'], result['href'])
     
+    # Iterating through posts to find a match
+    for file in os.listdir(posts_folder):
+        if file.endswith(".md"):
+            parts = file.split("-")  # Splitting the filename by '-'
+            # Extracting title part - ignoring date
+            existing_title = "-".join(parts[3:])  # Joining back title
+            if existing_title == f"{post_title}.md":
+                old_file_path = os.path.join(posts_folder, file)
+                os.remove(old_file_path)  # Removing the old file
+
     # Creating the subsite for list element
+    # Updating post
     with open(file_path, "w") as markdown_file:
         # Chirpy-theme base post file scheme
         markdown_file.write(f"---\n")
         markdown_file.write(f"title: {post_title.replace('-', ' ').title()}\n")
-        markdown_file.write(f"date: {current_date} 12:00:00\n")
+        markdown_file.write(f"date: {current_date} {current_time}\n")
         markdown_file.write(f"categories: [Color]\n")
         markdown_file.write(f"tags: [learning]\n")
         markdown_file.write(f"---\n")
@@ -104,18 +116,29 @@ for i in items:
 
 # Preapring the list markdown file
 current_date = datetime.now().strftime("%Y-%m-%d")
+current_time = datetime.now().strftime("%H:%M:%S")
 post_title = "Your-favourite-color"
 filename = f"{current_date}-{post_title}.md"
 posts_folder = "_posts"
 file_path = os.path.join(posts_folder, filename)
 os.makedirs(posts_folder, exist_ok=True)
 
+# Iterating through posts to find a match
+for file in os.listdir(posts_folder):
+    if file.endswith(".md"):
+        parts = file.split("-")  # Splitting the filename by '-'
+        # Extracting title part - ignoring date
+        existing_title = "-".join(parts[3:])  # Joining back title
+        if existing_title == f"{post_title}.md":
+            old_file_path = os.path.join(posts_folder, file)
+            os.remove(old_file_path)  # Removing the old file
 
+# Updating post
 with open(file_path, "w") as markdown_file:
     # Chirpy-theme base post file scheme
     markdown_file.write(f"---\n")
     markdown_file.write(f"title: {post_title.replace('-', ' ').title()}\n")
-    markdown_file.write(f"date: {current_date} 12:00:00\n")
+    markdown_file.write(f"date: {current_date} {current_time}\n")
     markdown_file.write(f"categories: [Explanation]\n")
     markdown_file.write(f"tags: [introduction]\n")
     markdown_file.write(f"---\n")
