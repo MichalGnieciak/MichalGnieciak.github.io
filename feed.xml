@@ -4,7 +4,7 @@
   <id>https://michalgnieciak.github.io/</id>
   <title>WWW Task 1</title>
   <subtitle>A website project</subtitle>
-  <updated>2025-03-03T20:30:47+00:00</updated>
+  <updated>2025-03-03T21:01:19+00:00</updated>
   <author>
     <name>Michał Gnieciak</name>
     <uri>https://michalgnieciak.github.io/</uri>
@@ -22,9 +22,9 @@
   <entry>
     <title>Your Favourite Color</title>
     <link href="https://michalgnieciak.github.io/posts/Your-favourite-color/" rel="alternate" type="text/html" title="Your Favourite Color" />
-    <published>2025-03-03T12:00:00+00:00</published>
+    <published>2025-03-03T21:01:13+00:00</published>
   
-    <updated>2025-03-03T12:00:00+00:00</updated>
+    <updated>2025-03-03T21:01:14+00:00</updated>
   
     <id>https://michalgnieciak.github.io/posts/Your-favourite-color/</id>
     <content type="text/html" src="https://michalgnieciak.github.io/posts/Your-favourite-color/" />
@@ -44,14 +44,14 @@
 
   
   <entry>
-    <title>Learn About Red</title>
-    <link href="https://michalgnieciak.github.io/posts/Learn-about-red/" rel="alternate" type="text/html" title="Learn About Red" />
-    <published>2025-03-03T12:00:00+00:00</published>
+    <title>Learn About Black</title>
+    <link href="https://michalgnieciak.github.io/posts/Learn-about-black/" rel="alternate" type="text/html" title="Learn About Black" />
+    <published>2025-03-03T21:01:10+00:00</published>
   
-    <updated>2025-03-03T20:30:42+00:00</updated>
+    <updated>2025-03-03T21:01:14+00:00</updated>
   
-    <id>https://michalgnieciak.github.io/posts/Learn-about-red/</id>
-    <content type="text/html" src="https://michalgnieciak.github.io/posts/Learn-about-red/" />
+    <id>https://michalgnieciak.github.io/posts/Learn-about-black/</id>
+    <content type="text/html" src="https://michalgnieciak.github.io/posts/Learn-about-black/" />
     <author>
       <name>Michał Gnieciak</name>
     </author>
@@ -62,7 +62,7 @@
     
   
 
-  <summary>Red   Red is the color at the long wavelength end of the visible spectrum of light, next to orange and opposite violet. It has a dominant wavelength of approximately 625-750 nanometres. [1] It is a primary color in the RGB color model and a secondary color (made from magenta and yellow) in the CMYK color model, and is the complementary color of cyan. Read more</summary>
+  <summary>Black   As the color of night, black is strongly tied to the mythology of night in most cultures and can be described as eerie, gloomy or melancholic. Black also has other cultural associations for example it is a formal color and is associated with subcultures such as gothic music and fashion. The following are common ways to describe black. Read more</summary>
 
   </entry>
 
@@ -70,9 +70,9 @@
   <entry>
     <title>Learn About Purple</title>
     <link href="https://michalgnieciak.github.io/posts/Learn-about-purple/" rel="alternate" type="text/html" title="Learn About Purple" />
-    <published>2025-03-03T12:00:00+00:00</published>
+    <published>2025-03-03T21:01:08+00:00</published>
   
-    <updated>2025-03-03T20:30:42+00:00</updated>
+    <updated>2025-03-03T21:01:14+00:00</updated>
   
     <id>https://michalgnieciak.github.io/posts/Learn-about-purple/</id>
     <content type="text/html" src="https://michalgnieciak.github.io/posts/Learn-about-purple/" />
@@ -94,9 +94,9 @@
   <entry>
     <title>Learn About Green</title>
     <link href="https://michalgnieciak.github.io/posts/Learn-about-green/" rel="alternate" type="text/html" title="Learn About Green" />
-    <published>2025-03-03T12:00:00+00:00</published>
+    <published>2025-03-03T21:01:05+00:00</published>
   
-    <updated>2025-03-03T12:00:00+00:00</updated>
+    <updated>2025-03-03T21:01:14+00:00</updated>
   
     <id>https://michalgnieciak.github.io/posts/Learn-about-green/</id>
     <content type="text/html" src="https://michalgnieciak.github.io/posts/Learn-about-green/" />
@@ -110,20 +110,20 @@
     
   
 
-  <summary>Green   Words to describe green are mostly references to natural green colors or green colors that have some cultural meaning and symbolism. Green colors can be described with general adjectives such as fresh, natural or lush. Read more</summary>
+  <summary>Green   Green Color Meaning . Green Things . top » color theory » color perception » words to describe color » words to describe green . 50 Words To Describe Green John Spacey, April 11, 2023. Words to describe green are mostly references to natural green colors or green colors that have some cultural meaning and symbolism. Green colors can be … Read more</summary>
 
   </entry>
 
   
   <entry>
-    <title>Learn About Blue</title>
-    <link href="https://michalgnieciak.github.io/posts/Learn-about-blue/" rel="alternate" type="text/html" title="Learn About Blue" />
-    <published>2025-03-03T12:00:00+00:00</published>
+    <title>Learn About Red</title>
+    <link href="https://michalgnieciak.github.io/posts/Learn-about-red/" rel="alternate" type="text/html" title="Learn About Red" />
+    <published>2025-03-03T21:01:03+00:00</published>
   
-    <updated>2025-03-03T20:30:42+00:00</updated>
+    <updated>2025-03-03T21:01:14+00:00</updated>
   
-    <id>https://michalgnieciak.github.io/posts/Learn-about-blue/</id>
-    <content type="text/html" src="https://michalgnieciak.github.io/posts/Learn-about-blue/" />
+    <id>https://michalgnieciak.github.io/posts/Learn-about-red/</id>
+    <content type="text/html" src="https://michalgnieciak.github.io/posts/Learn-about-red/" />
     <author>
       <name>Michał Gnieciak</name>
     </author>
@@ -134,7 +134,7 @@
     
   
 
-  <summary>Blue   Blue is one of the three primary colours in the RYB colour model (traditional colour theory), as well as in the RGB (additive) colour model. [2] It lies between violet and cyan on the spectrum of visible light.The term blue generally describes colours perceived by humans observing light with a dominant wavelength that’s between approximately 450 and 495 nanometres. Read more</summary>
+  <summary>Red   Red is the color at the long wavelength end of the visible spectrum of light, next to orange and opposite violet.It has a dominant wavelength of approximately 625-750 nanometres. [1] It is a primary color in the RGB color model and a secondary color (made from magenta and yellow) in the CMYK color model, and is the complementary color of cyan.Reds range from the brilliant yellow-tinged … ...</summary>
 
   </entry>
 
